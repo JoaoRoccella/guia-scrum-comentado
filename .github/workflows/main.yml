@@ -1,0 +1,2 @@
+- name: Check HTML Links action
+  uses: modernweb-dev/check-html-links-action@v1.1
