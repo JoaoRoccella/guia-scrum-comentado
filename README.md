@@ -1,5 +1,7 @@
 # Guia Scrum Comentado
 
+## Baseado no Scrum Guide - Novembro de 2020
+
 > ## Daily Scrum
 >
 > O propósito da Daily Scrum é inspecionar o progresso em direção a Meta da Sprint e adaptar o 
