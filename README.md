@@ -22,3 +22,5 @@
 > A Daily Scrum não é o único momento em que os Developers podem ajustar seu plano. Eles 
 > costumam se reunir ao longo do dia para discussões mais detalhadas sobre a adaptação ou 
 > replanejamento do resto do trabalho da Sprint. (Scrum Guide - Nov/2020)
+
+Comentário:
