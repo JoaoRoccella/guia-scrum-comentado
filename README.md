@@ -24,3 +24,5 @@
 > replanejamento do resto do trabalho da Sprint. (Scrum Guide - Nov/2020)
 
 Comentário:
+
+Novo comentário feito no GitHub
